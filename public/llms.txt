@@ -1,0 +1,57 @@
+# OPC — Generative Engine Optimization Map
+
+> A cybersecurity and business continuity consulting firm specializing in advisory and implementation services. The business focuses on serving small businesses and independent professionals, helping them establish robust information security practices and ensure business continuity. The consultant provides practical, accessible security solutions tailored to the unique needs and constraints of smaller organizations.
+
+---
+
+## Pages
+
+### בית
+https://opc-49d03c2f.zappy5.app
+אורון פולוסצקי מספק פתרונות אבטחת מידע וסייבר מעשיים לעסקים קטנים ועצמאיים. הקשחת אבטחה, ייעוץ והטמעה שמתאימים בדיוק לצרכים שלך.
+
+### שירותים
+https://opc-49d03c2f.zappy5.app/services
+שירותי אבטחת מידע מותאמים אישית: הקשחת אבטחה לבית עסק, ייעוץ סייבר, תכנון המשכיות עסקית ותמיכה טכנית שוטפת. פתרונות מעשיים במחירים הוגנים.
+
+### גישה
+https://opc-49d03c2f.zappy5.app/approach
+למה OPC שונה? גישה מעשית ונגישה לאבטחת מידע, מותאמת במיוחד לעסקים קטנים ועצמאיים. ללא סיסמאות טכניות - רק פתרונות שעובדים באמת.
+
+### צור קשר
+https://opc-49d03c2f.zappy5.app/contact
+מוכן להגן על העסק שלך? צור קשר עם אורון פולוסצקי לייעוץ ראשוני ללא התחייבות. טכנאי מחשבים ומומחה אבטחת מידע שמבין את הצרכים שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://opc-49d03c2f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://opc-49d03c2f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://opc-49d03c2f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About OPC
+A cybersecurity and business continuity consulting firm specializing in advisory and implementation services. The business focuses on serving small businesses and independent professionals, helping them establish robust information security practices and ensure business continuity. The consultant provides practical, accessible security solutions tailored to the unique needs and constraints of smaller organizations.
+
+## Target Audience
+עסקים קטנים ועצמאיים
+
+## Industry
+אבטחת מידע וסייבר
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://opc-49d03c2f.zappy5.app/sitemap.xml
+- **Robots.txt**: https://opc-49d03c2f.zappy5.app/robots.txt
